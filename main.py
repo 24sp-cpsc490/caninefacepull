@@ -5,6 +5,7 @@ def main():
     print("pp caca")
     print("lol this class is great")
 
+    print("This is an original change!")
+
 if __name__ == '__main__':
     main()
-print("This is an original change!")
