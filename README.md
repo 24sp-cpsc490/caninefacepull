@@ -6,3 +6,5 @@ The professor's dog can lift more than me.
 Daniel was here :)
 
 Please do not merge your own PRs without approval.
+
+Hunter was also here but Im less original :3
