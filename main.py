@@ -6,6 +6,7 @@ def main():
     print("lol this class is great")
 
     print("This is an original change!")
+    print("More original changes!!!")
 
 if __name__ == '__main__':
     main()
